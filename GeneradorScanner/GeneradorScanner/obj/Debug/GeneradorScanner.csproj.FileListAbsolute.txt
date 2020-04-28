@@ -47,3 +47,23 @@ C:\Users\majoj\OneDrive\Escritorio\GeneradorDeScanner\GeneradorScanner\Generador
 C:\Users\majoj\OneDrive\Escritorio\GeneradorDeScanner\GeneradorScanner\GeneradorScanner\obj\Debug\GeneradorScanner.csproj.CopyComplete
 C:\Users\majoj\OneDrive\Escritorio\GeneradorDeScanner\GeneradorScanner\GeneradorScanner\obj\Debug\GeneradorScanner.exe
 C:\Users\majoj\OneDrive\Escritorio\GeneradorDeScanner\GeneradorScanner\GeneradorScanner\obj\Debug\GeneradorScanner.pdb
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\bin\Debug\GeneradorScanner.exe.config
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\bin\Debug\GeneradorScanner.exe
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\bin\Debug\GeneradorScanner.pdb
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\bin\Debug\Newtonsoft.Json.dll
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\bin\Debug\System.IO.Abstractions.dll
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\bin\Debug\System.IO.Pipelines.dll
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\bin\Debug\System.Memory.dll
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\bin\Debug\System.Buffers.dll
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\bin\Debug\System.Numerics.Vectors.dll
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\bin\Debug\Newtonsoft.Json.xml
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\obj\Debug\GeneradorScanner.csprojAssemblyReference.cache
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\obj\Debug\GeneradorScanner.Form1.resources
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\obj\Debug\GeneradorScanner.Properties.Resources.resources
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\obj\Debug\GeneradorScanner.csproj.GenerateResource.cache
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\obj\Debug\GeneradorScanner.csproj.CoreCompileInputs.cache
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\obj\Debug\GeneradorScanner.csproj.CopyComplete
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\obj\Debug\GeneradorScanner.exe
+D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\GeneradorScanner\GeneradorScanner\obj\Debug\GeneradorScanner.pdb
