@@ -371,18 +371,18 @@ namespace GeneradorScanner
         }
         private void save()
         {
-            DirectoryInfo directory = new DirectoryInfo(@"C:\Users\DISTELSA\Desktop\DataScanner\");
+            DirectoryInfo directory = new DirectoryInfo(@"D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\DataScanner\");
             foreach (var file in directory.GetFiles())
             {
                 file.Delete();
             }
             string s = JsonConvert.SerializeObject(sets);//valida el como se hizo
-            File.WriteAllText(@"C:\Users\DISTELSA\Desktop\DataScanner\JsonSets.txt", JsonConvert.SerializeObject(sets));
-            File.WriteAllText(@"C:\Users\DISTELSA\Desktop\DataScanner\JsonTokens.txt", JsonConvert.SerializeObject(Tokens));
-            File.WriteAllText(@"C:\Users\DISTELSA\Desktop\DataScanner\JsonActions.txt", JsonConvert.SerializeObject(Actions));
-            File.WriteAllText(@"C:\Users\DISTELSA\Desktop\DataScanner\JsonSetErrors.txt", JsonConvert.SerializeObject(Errors));
-            File.WriteAllText(@"C:\Users\DISTELSA\Desktop\DataScanner\JsonSetTransition.txt", JsonConvert.SerializeObject(transition));
-            File.WriteAllText(@"C:\Users\DISTELSA\Desktop\DataScanner\JsonSetGroups.txt", JsonConvert.SerializeObject(groups));
+            File.WriteAllText(@"D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\DataScanner\JsonSets.txt", JsonConvert.SerializeObject(sets));
+            File.WriteAllText(@"D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\DataScanner\JsonTokens.txt", JsonConvert.SerializeObject(Tokens));
+            File.WriteAllText(@"D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\DataScanner\JsonActions.txt", JsonConvert.SerializeObject(Actions));
+            File.WriteAllText(@"D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\DataScanner\JsonSetErrors.txt", JsonConvert.SerializeObject(Errors));
+            File.WriteAllText(@"D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\DataScanner\JsonSetTransition.txt", JsonConvert.SerializeObject(transition));
+            File.WriteAllText(@"D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\DataScanner\JsonSetGroups.txt", JsonConvert.SerializeObject(groups));
         }
         /// <summary>
         /// crea el la tabla de tansiciones
@@ -555,7 +555,7 @@ namespace GeneradorScanner
             escritura += Environment.NewLine;
             escritura += "Follows";
             escritura += Environment.NewLine;
-            for (int i = 1; i <= Follow.Keys.Count-1; i++)
+            for (int i = 1; i <= Follow.Keys.Count-1; i++)//error
             {                
                 escritura += "NODO: " + i+" --> ";                                
                 for (int j = 0; j < Follow[i].Count; j++)
@@ -596,7 +596,7 @@ namespace GeneradorScanner
         }
         public void Compiler(string name)
         {
-            string path = @"C:\Users\DISTELSA\Desktop\Compilado\";
+            string path = @"D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\Compilado\";
             string filename = name+".cs";
             string exe = path + name + ".exe";
             //CompileCode(path, filename);            

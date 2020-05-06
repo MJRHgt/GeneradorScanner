@@ -38,14 +38,14 @@ namespace GeneradorScanner
                 txtArea2.Text = obj.getFollows();
                 txtDFA.Text = obj.showAutomat();
 
-                DirectoryInfo directory = new DirectoryInfo(@"C:\Users\DISTELSA\Desktop\Compilado\");
+                DirectoryInfo directory = new DirectoryInfo(@"D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\Compilado\");
                 foreach (var file in directory.GetFiles())
                 {
                     file.Delete();
                 }
                 string name = Path.GetFileName(open.FileName);
                 name = name.Substring(0,name.Length-4);
-                File.Copy(@"C:\Users\DISTELSA\Desktop\Original.cs", @"C:\Users\DISTELSA\Desktop\Compilado\"+name+".cs");                
+                File.Copy(@"D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\Original.cs", @"D:\Universidad\1er ciclo 2020\Lenguajes Automatas\Scanner\GeneradorScanner\Compilado\" + name+".cs");                
                 obj.Compiler(name);
             }
         }               
